@@ -3,7 +3,6 @@ package com.company;
 import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.Properties;
 import java.util.Scanner;
@@ -11,10 +10,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        String line = "Pawe\u00c5\u0082";
         String textFromJSON = "";
-        File file = new File("new.txt");
+        File file = new File("new.json");
         try {
             Scanner scanner = new Scanner(file);
             textFromJSON = scanner.nextLine();
