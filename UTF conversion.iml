@@ -7,5 +7,44 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin.zip!/commons-lang3-3.12.0/apidocs" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0-tests.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-tests.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-test-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
